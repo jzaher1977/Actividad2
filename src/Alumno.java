@@ -3,6 +3,8 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.ArrayList;
 
+//** Programa Creado por:  Juan Antonio Flores Zaher Morales **//
+
 public class Alumno {
     private Scanner reader;
 
